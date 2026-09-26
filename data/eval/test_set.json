@@ -1,0 +1,92 @@
+[
+  {
+    "id": "q01",
+    "question_type": "summary",
+    "question": "What is the main contribution of 'Continuous Benchmark Evaluation for Enterprise Retrieval Pipelines'?",
+    "ground_truth": "Static benchmarks fail to capture domain drift in enterprise knowledge bases.",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671812"
+    ]
+  },
+  {
+    "id": "q02",
+    "question_type": "authors",
+    "question": "Who authored 'Freshness SLAs for Real-Time LLM Knowledge Augmentation'?",
+    "ground_truth": "Bao Do, Linh Ngo",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671804"
+    ]
+  },
+  {
+    "id": "q03",
+    "question_type": "date",
+    "question": "When was 'Data Observability and Quality Gates for Production RAG Systems' published?",
+    "ground_truth": "2026-06-12",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671802"
+    ]
+  },
+  {
+    "id": "q04",
+    "question_type": "categories",
+    "question": "What categories does 'Advanced Perspectives on Automated Data Quality Profiling with Great Expectations in CI/CD' belong to?",
+    "ground_truth": "Data Quality, DevOps",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671822"
+    ]
+  },
+  {
+    "id": "q05",
+    "question_type": "summary",
+    "question": "What is the main contribution of 'Automated Data Quality Profiling with Great Expectations in CI/CD'?",
+    "ground_truth": "Embedding quality checks directly into data pipelines enables fail-closed governance.",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671810"
+    ]
+  },
+  {
+    "id": "q06",
+    "question_type": "authors",
+    "question": "Who authored 'Advanced Perspectives on Semantic Layer Integration for Agentic Text-to-SQL Pipelines'?",
+    "ground_truth": "Huy Dinh, Trang Vo",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671818"
+    ]
+  },
+  {
+    "id": "q07",
+    "question_type": "date",
+    "question": "When was 'Advanced Perspectives on Freshness SLAs for Real-Time LLM Knowledge Augmentation' published?",
+    "ground_truth": "2026-06-04",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671816"
+    ]
+  },
+  {
+    "id": "q08",
+    "question_type": "categories",
+    "question": "What categories does 'Advanced Perspectives on Data Observability and Quality Gates for Production RAG Systems' belong to?",
+    "ground_truth": "Software Engineering, Data Systems",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671814"
+    ]
+  },
+  {
+    "id": "q09",
+    "question_type": "summary",
+    "question": "What is the main contribution of 'Hybrid Search Architectures: Combining BM25 with Dense Representations'?",
+    "ground_truth": "Dense vector search excels at conceptual similarity but struggles with exact acronyms and serial numbers.",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671811"
+    ]
+  },
+  {
+    "id": "q10",
+    "question_type": "authors",
+    "question": "Who authored 'Chunking Strategies for Technical Documentation Retrieval'?",
+    "ground_truth": "Long Trinh, Ha Chu",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671809"
+    ]
+  }
+]
