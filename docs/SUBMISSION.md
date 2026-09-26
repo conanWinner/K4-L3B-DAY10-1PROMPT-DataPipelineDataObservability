@@ -19,7 +19,8 @@
 
 Theo **Quy ước chung Khóa 4**:
 - **Công thức:** `K4-L3B-DAY10-TenNhom-DataPipelineDataObservability`
-- **Ví dụ:** `K4-L3B-DAY10-AlphaTeam-DataPipelineDataObservability`
+- **Tên Repo Nhóm thực tế:** `K4-L3B-DAY10-1PROMPT-DataPipelineDataObservability`
+- **Ví dụ mẫu:** `K4-L3B-DAY10-AlphaTeam-DataPipelineDataObservability`
 
 ---
 
@@ -78,11 +79,11 @@ K4-L3B-DAY10-TenNhom-DataPipelineDataObservability/
 
 ## 8. Checklist Trước Khi Nộp Link Lên VLearn
 
-- [ ] `python script/run_phase1.py` chạy exit code 0
-- [ ] `python script/run_corruption_flow.py` chạy exit code 0
-- [ ] `data/reports/corruption_report.md` có bảng đối chiếu Baseline vs Corrupted vs Repaired
-- [ ] Có đủ `baseline_metrics.json`, `corrupted_metrics.json`, `repaired_metrics.json`
-- [ ] `TEAM.md` điền đầy đủ họ tên, MSSV, phần tự khai cá nhân
-- [ ] Không commit `.env` lên GitHub
-- [ ] Tab **Insights → Contributors** trên GitHub: 100% thành viên có commit trên `main`
-- [ ] Mỗi cá nhân nộp link repo lên VLearn LMS trước 23:59:59
+- [x] `python script/run_phase1.py` chạy exit code 0
+- [x] `python script/run_corruption_flow.py` chạy exit code 0
+- [x] `data/reports/corruption_report.md` có bảng đối chiếu Baseline vs Corrupted vs Repaired
+- [x] Có đủ `baseline_metrics.json`, `corrupted_metrics.json`, `repaired_metrics.json`
+- [x] `TEAM.md` điền đầy đủ họ tên, MSSV, phần tự khai cá nhân
+- [x] Không commit `.env` lên GitHub
+- [x] Tab **Insights → Contributors** trên GitHub: 100% thành viên có commit trên `main`
+- [x] Mỗi cá nhân nộp link repo lên VLearn LMS trước 23:59:59

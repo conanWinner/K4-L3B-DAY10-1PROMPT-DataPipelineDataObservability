@@ -1,8 +1,8 @@
 {
   "report_name": "corrupted",
-  "checked_at": "2026-09-26T04:57:31.870954+00:00",
+  "checked_at": "2026-09-26T13:39:17.461513+00:00",
   "row_count": 23,
-  "gx_version": "1.23.2",
+  "gx_version": "1.18.0",
   "gx_success": false,
   "failed_expectations": [
     {

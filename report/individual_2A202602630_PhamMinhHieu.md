@@ -7,7 +7,7 @@
 | Họ và tên       | Phạm Minh Hiếu             |
 | MSSV               | 2A202602630                |
 | Khóa/Lớp         | K4 - L3B                   |
-| Tên nhóm         | [Tên hoặc mã nhóm]     |
+| Tên nhóm         | Nhóm 1PROMPT               |
 | Vai trò chính    | Source owner (Raw ingestion & data lineage) |
 | Repository         | https://github.com/conanWinner/K4-L3B-DAY10-1PROMPT-DataPipelineDataObservability |
 | Ngày hoàn thành | 2026-09-26                 |

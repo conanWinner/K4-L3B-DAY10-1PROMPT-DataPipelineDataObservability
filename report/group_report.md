@@ -5,7 +5,7 @@
 | Thông tin         | Nội dung                  |
 | ------------------ | -------------------------- |
 | Khóa/Lớp         | K4 - L3B                   |
-| Tên nhóm         | [Tên hoặc mã nhóm]     |
+| Tên nhóm         | Nhóm 1PROMPT               |
 | Repository         | https://github.com/conanWinner/K4-L3B-DAY10-1PROMPT-DataPipelineDataObservability |
 | Ngày hoàn thành | 2026-09-26                 |
 
@@ -281,12 +281,12 @@ Quan sát thêm:
 
 ## 13. Checklist trước khi nộp
 
-- [ ] Thông tin nhóm và repository chính xác.
+- [x] Thông tin nhóm và repository chính xác.
 - [x] Phân công khớp với module, artifact và kết quả thực tế.
 - [x] Lệnh tái hiện đã được chạy lại trên phiên bản dùng để nộp.
 - [x] Baseline, corrupted và repaired dùng cùng evaluation set.
 - [x] Bảng metrics khớp với các file trong `data/results/`.
 - [x] Quality/freshness conclusions khớp với `data/quality/`.
 - [x] Các đường dẫn báo cáo và artifact truy cập được.
-- [ ] Mỗi thành viên đã hoàn thành báo cáo vai trò riêng.
+- [x] Mỗi thành viên đã hoàn thành báo cáo vai trò riêng.
 - [x] Không có `.env`, API key, token hoặc secret trong source, report, log hay ảnh.

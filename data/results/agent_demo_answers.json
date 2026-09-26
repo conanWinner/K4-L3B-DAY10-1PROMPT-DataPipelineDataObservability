@@ -2,11 +2,11 @@
   {
     "question": "What is the main contribution of 'Continuous Benchmark Evaluation for Enterprise Retrieval Pipelines'?",
     "answer": null,
-    "error": ""
+    "error": "Unsupported LLM_PROVIDER. Expected one of: openai, gemini, anthropic, openrouter, ollama, custom, mock."
   },
   {
     "question": "Who authored 'Freshness SLAs for Real-Time LLM Knowledge Augmentation'?",
     "answer": null,
-    "error": ""
+    "error": "Unsupported LLM_PROVIDER. Expected one of: openai, gemini, anthropic, openrouter, ollama, custom, mock."
   }
 ]
